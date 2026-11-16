@@ -48,7 +48,7 @@ The analysis uses SQL queries to extract meaningful business insights from Books
 
 ### 2. Top 5 Customers by Total Spending (CTE)
 
-![Top 5 Customers](Output_Screenshots/Top_5_Customers_Spending_CTE.png)
+![Top 5 Customers](Output_Screenshots/Top_5_Customers_Spending.png)
 
 ### 3. Book Sales Ranking Within Each Genre (DENSE_RANK)
 
